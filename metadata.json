@@ -1,0 +1,6 @@
+{
+  "name": "Hak dan Kewajibanku di Sekolah",
+  "description": "Media pembelajaran interaktif Pendidikan Pancasila Kelas 3 SD tentang Hak dan Kewajiban di Sekolah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
